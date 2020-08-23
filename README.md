@@ -1,5 +1,5 @@
 # django-todo
-A Django BackendAPI for a ToDo App
+A Django API for a ToDo App
 The App can perform CRUD functions
 
 
